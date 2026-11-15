@@ -7,3 +7,4 @@
 - **Permits:** Northwest Forest Pass; weekend permit needed during wildflower season
 
 ## Notes
+Fairly boring hike but a few gorge views.
