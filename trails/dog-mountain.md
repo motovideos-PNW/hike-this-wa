@@ -1,2 +1,9 @@
-"# Hike This WA`n`nTrail reports from the Columbia Gorge and Gifford Pinchot." | Set-Content README.md
+# Dog Mountain
 
+- **Distance:** 6.9 mi round trip
+- **Elevation gain:** 2,800 ft
+- **Trailhead:** WA-14, east of Carson
+- **Best season:** Spring, for the wildflowers
+- **Permits:** Northwest Forest Pass; weekend permit needed during wildflower season
+
+## Notes
